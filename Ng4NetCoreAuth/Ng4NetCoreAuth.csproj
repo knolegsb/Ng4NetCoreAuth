@@ -5,7 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="ViewModels\Mappings\" />
     <Folder Include="wwwroot\" />
   </ItemGroup>
 
